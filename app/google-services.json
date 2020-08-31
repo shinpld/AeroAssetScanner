@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049931300120",
+    "firebase_url": "https://aeroasset-f44b3.firebaseio.com",
+    "project_id": "aeroasset-f44b3",
+    "storage_bucket": "aeroasset-f44b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049931300120:android:745d1b68a82e303cbc726d",
+        "android_client_info": {
+          "package_name": "com.example.aeroassetscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049931300120-ig66542g4ad3s9sb0n3q7ufsvp15aav9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aeroassetscanner",
+            "certificate_hash": "6a56b0194368bb04cc556ce9bf50af49a4145624"
+          }
+        },
+        {
+          "client_id": "1049931300120-ibp0lppj2t1h6l9lnj2rmd0c1g12t3sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY-AlwMVXGZ4F4DSWk2KA4GeLHf6CHqus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049931300120-ibp0lppj2t1h6l9lnj2rmd0c1g12t3sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

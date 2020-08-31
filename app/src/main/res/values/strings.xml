@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AeroAssetScanner</string>
+    <string name="id">id</string>
+    <string name="content">content</string>
+    <string name="scan">SCAN</string>
+    <string-array name="loc_array">
+        <item>อาคาร60ปีชั้น 7</item>
+        <item>อาคาร60ปีชั้น 2</item>
+    </string-array>
+</resources>
